@@ -9,7 +9,9 @@ A async plugin for nonebot using to control ASF
    - [ ] 支持绑定 `默认用户`
 
 # Modules
- - [ ] SteamStat
+ - [X] SteamStat
+ - [ ] ASFController
+ - [ ] DestinyTracker
 
 # Install
  - 将`AraraSteamFarm`复制到`.\hoshino\modules`文件夹下
